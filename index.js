@@ -18,7 +18,7 @@ db.serialize(function(){
 
     
     db.run("CREATE TABLE Department (Dept_name, Building, Budget)");
-
+  
     db.run("INSERT INTO Department VALUES('Biology', 'Watson', 90000)");
     db.run("INSERT INTO Department VALUES('Comp. Sci.', 'Taylor', 100000)");
     db.run("INSERT INTO Department VALUES('Elec. Eng.', 'Taylor', 85000)");
