@@ -25,7 +25,7 @@ db.serialize(function(){
     db.run("INSERT INTO Department VALUES('Finance', 'Painter', 120000)");
     db.run("INSERT INTO Department VALUES('History', 'Painter', 50000)");
     db.run("INSERT INTO Department VALUES('Music', 'Packard', 80000)");
-    db.run("INSERT INTO Department VALUES('Physics', 'Watson', 70000)");
+    db.run("INSERT INTO Department VALUES('Physics', 'Watson', 70000)"); 
 
 
     
