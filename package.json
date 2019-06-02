@@ -1,0 +1,22 @@
+{
+  "name": "datamanagement",
+  "version": "1.0.0",
+  "description": "Assignment1DataManagement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djinnbasil/Assignment_1_Data_Management_MDEV.git"
+  },
+  "author": "Basil Scaria Varghese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djinnbasil/Assignment_1_Data_Management_MDEV/issues"
+  },
+  "homepage": "https://github.com/djinnbasil/Assignment_1_Data_Management_MDEV#readme",
+  "devDependencies": {
+    "sqlite3": "^4.0.8"
+  }
+}
